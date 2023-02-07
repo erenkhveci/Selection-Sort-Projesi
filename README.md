@@ -11,7 +11,7 @@
 </div>
 
 
->Adımların sıralanması:
+>ADIMLARIN SIRALAMASI:
 >- En küçüğü bul = 2
 >- En küçük sayıyı index 0 ile yer değiştir.
 >- index 1 den başlayarak en küçük sayıyı bul = 6
