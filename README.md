@@ -35,6 +35,7 @@ Sıralama yapıldıktan sonra 18 dizinin ortasında kalacağı için ***Avarege 
 #### [7,3,5,8,2,9,4,15,6] -> Selection Sort :
 </div>
 
+>ADIMLARIN SIRALAMASI:
 >- En küçüğü bul = 2
 >- En küçük sayıyı index 0 ile yer değiştir.
 >- index 1 den başlayarak en küçük sayıyı bul = 3
